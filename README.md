@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, Wecom to my Github profile</h1>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:33ccff,50:66ffff,100:33ccff&height=180&text=Susan%20Miller&fontSize=54&fontAlignY=38&animation=twinkling&desc=Full%20Stack%20Engineer&descAlignY=70&stroke=ffffff&strokeWidth=2&border=33ccff" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:33ccff,20:33ccff,40:66ffff,60:33ccff,80:66ffff,100:33ccff&height=180&text=Susan%20Miller&fontSize=54&fontAlignY=40&animation=twinkling&desc=Full%20Stack%20Engineer&descAlignY=75&stroke=8B4513&strokeWidth=2" />
 
 <h3>👀 Open to work!</h3>
 <h4 align="left">I am a passionate Backend and Full Stack developer who has over 7 years of development experience. I have solid knowledge and rich experience in programming, software development, project management and team leading. Beautiful and attractive frontend build and powerful & fast backend logic are my major concern.</h4>
