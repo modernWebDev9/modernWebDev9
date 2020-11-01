@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, Welcom to my Github profile</h1>
+<h1 align="center">Hi 👋, Welcome to my Github profile</h1>
 
 
 <!-- <p align="center">
