@@ -4,11 +4,14 @@
   width="100%"
   src="https://capsule-render.vercel.app/api
     ?type=waving
-    &color=gradient
-    &height=140
+    &color=timeGradient
+    &height=160
     &text=Susan%20Miller
-    &fontSize=50
-    &animation=fadeIn"
+    &fontSize=52
+    &fontAlignY=40
+    &animation=twinkling
+    &stroke=ffffff
+    &strokeWidth=1"
 />
 
 <h3>👀 Open to work!</h3>
