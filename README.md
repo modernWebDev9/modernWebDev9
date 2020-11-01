@@ -1,12 +1,8 @@
 <h1 align="center">Hi 👋, Welcom to my Github profile</h1>
-<img style="width: 100%" src="https://capsule-render.vercel.app/api?text=Susan%20Miller&animation=fadeIn&type=waving&color=gradient&height=300"/>
-<h3 align="center">Full Stack Engineer</h3
-
 <img style="width: 100%" src="https://capsule-render.vercel.app/api?text=Susan%20Miller&animation=fadeIn&type=waving&color=gradient&height=200"/>
-
 <h3 align="center">Full Stack Developer</h3>
 
-<h4 align="left">I am a passionate Backend and Full Stack developer who has over 7 years of development experience. I have solid knowledge and rich experience in programming, software development, project management and team leading. Beautiful and attractive frontend build and powerful & fast backend logic are my major concern.</h4>
+<h4 align="left">Full-Stack Developer & Technical Lead with 5+ years of experience building scalable web applications and leading cross-functional teams. Expert in React, Vue.js, Laravel, Django, and modern DevOps practices. Proven track record in delivering enterprise e-commerce platforms, HealthTech dashboards, and other high-impact projects. Adept at mentoring developers, optimizing workflows, and driving Agile delivery.</h4>
 
 <div align="center" style="margin-bottom: 40px; margin-top: 40px;">
   <br>
