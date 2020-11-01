@@ -7,7 +7,7 @@
 <p align="center">
 <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="900">
 </p>
-💻 **Senior Full Stack Engineer | UI/UX Focus**  
+💻 Senior Full Stack Engineer | UI/UX Focus
 Building high-performance web applications, financial dashboards, and scalable platforms with modern technologies.
 
 ---
