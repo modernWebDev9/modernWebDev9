@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, Welcom to my Github profile</h1>
 <img style="width: 100%" src="https://capsule-render.vercel.app/api?text=Full-Stack-developer&animation=fadeIn&type=waving&color=gradient&height=170"/>
 
-# 👋 Hi, I'm Susan Miller
 
 💻 **Senior Full Stack Engineer | UI/UX Focus**  
 Building high-performance web applications, financial dashboards, and scalable platforms with modern technologies.
