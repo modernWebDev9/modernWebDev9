@@ -2,7 +2,7 @@
 
 <img style="width: 100%" src="https://capsule-render.vercel.app/api?text=Susan%20Miller&animation=fadeIn&type=waving&color=gradient&height=150"/>
 
-<h3>👀 Open to work!</h3>
+<h3 style="text-align: center">Full Stack Engineer</h3>
 <h4 align="left">I am a passionate Backend and Full Stack developer who has over 7 years of development experience. I have solid knowledge and rich experience in programming, software development, project management and team leading. Beautiful and attractive frontend build and powerful & fast backend logic are my major concern.</h4>
 
 <div align="center" style="margin-bottom: 40px; margin-top: 40px;">
