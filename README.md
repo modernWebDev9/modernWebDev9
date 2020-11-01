@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, Welcome to my Github profile</h1>
 
 
-<!-- <p align="center">
-<img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?q=80&w=2070&auto=format&fit=crop" width="100%" />
-</p> -->
 <p align="center">
+<img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?q=80&w=2070&auto=format&fit=crop" width="100%" />
+</p> 
+<!-- <p align="center">
 <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="900">
-</p>
+</p> -->
 💻 Senior Full Stack Engineer | UI/UX Focus
 Building high-performance web applications, financial dashboards, and scalable platforms with modern technologies.
 
