@@ -88,6 +88,20 @@ I enjoy transforming **complex data and workflows into clean, intuitive user exp
 ## Tools
 ![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+
+---
+
+## 💡 What I Can Do
+
+- Build **high-performance React + TypeScript applications** with modern front-end architecture
+- Create **UX-focused dashboards** for fintech, analytics, and data-heavy platforms
+- Develop **scalable backend services** using Node.js, Python, RESTful APIs, and microservices
+- Design and implement **secure authentication and authorization** flows (OAuth2, JWT, RBAC)
+- Build **real-time data visualizations** with D3.js, Recharts, Chart.js
+- Deploy and maintain **cloud-native applications** on AWS (EC2, S3, RDS) with Docker and CI/CD
+- Integrate **modern tools & libraries**: GraphQL, Next.js, Redux, TailwindCSS, Chakra UI
+- Implement **modern DevOps practices** and automated pipelines for faster delivery
+- Build **tokenized asset platforms** and fintech interfaces for investor portals
 ---
 
 # 📊 GitHub Stats
