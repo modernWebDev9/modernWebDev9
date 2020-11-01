@@ -1,20 +1,11 @@
 <h1 align="center">Hi 👋, Welcom to my Github profile</h1>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Susan%20Miller%20%7C%20Senior%20Full%20Stack%20Engineer&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=React%20%7C%20TypeScript%20%7C%20Node.js%20%7C%20Fintech%20Platforms&descAlignY=55&descAlign=50" />
-</p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9966,50:ff5e62,100:ffc371&height=250&section=header&text=Susan%20Miller%20|%20Senior%20Full%20Stack%20Engineer&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=React%20•%20TypeScript%20•%20Node.js%20•%20Fintech%20Platforms&descAlignY=58&descSize=20"/>
-</p>
 
 <p align="center">
 <img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?q=80&w=2070&auto=format&fit=crop" width="100%" />
 </p>
 <p align="center">
 <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="900">
-</p>
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=260&section=header&text=Senior%20Full%20Stack%20Engineer&fontSize=45&fontAlignY=40&animation=fadeIn" />
 </p>
 💻 **Senior Full Stack Engineer | UI/UX Focus**  
 Building high-performance web applications, financial dashboards, and scalable platforms with modern technologies.
