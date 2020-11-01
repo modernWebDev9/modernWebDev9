@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, Welcom to my Github profile</h1>
-<img style="width: 100%" src="https://capsule-render.vercel.app/api?text=Full-Stack-developer&animation=fadeIn&type=waving&color=gradient&height=170"/>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Susan%20Miller%20%7C%20Senior%20Full%20Stack%20Engineer&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=React%20%7C%20TypeScript%20%7C%20Node.js%20%7C%20Fintech%20Platforms&descAlignY=55&descAlign=50" />
 </p>
