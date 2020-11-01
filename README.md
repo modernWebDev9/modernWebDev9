@@ -51,7 +51,7 @@ Focus: Graphic Design and Typography
 ---
 
 ## 🔗 GitHub Stats
-![Susan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Susan0907Miller&theme=react&show_icons=true)  
+![Susan's GitHub stats](https://github.com/Susan0907Miller/susan0907miller?tab=readme-ov-file&theme=react&show_icons=true)  
 
 ---
 
