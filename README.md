@@ -6,7 +6,7 @@
 - 💬 Ask me about **Laravel,Vue.js,Node.js, Golang and React, TypeScript, Next.js**
 
 - 📫 How to reach me **susan0907miller@gmail.com**
-<h1 align="left">What Can I do?</h1>h1>
+<h1 align="left">What Can I do?</h1>
 <h4 align="left">Smart Contract & Crypto</h4>
 
 <h4 align="left">Crypto Trading Platforms & Bots</h4>
