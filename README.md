@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, Welcom to my Github profile</h1>
-<img style="width: 100%" src="https://capsule-render.vercel.app/api?text=Full-Stack% developer&animation=fadeIn&type=waving&color=gradient&height=170"/>
+<img style="width: 100%" src="https://capsule-render.vercel.app/api?text=Full-Stack%Developer&animation=fadeIn&type=waving&color=gradient&height=170"/>
 
 <h4 align="left">Full-Stack Developer & Technical Lead with 5+ years of experience building scalable web applications and leading cross-functional teams. Expert in React, Vue.js, Laravel, Django, and modern DevOps practices. Proven track record in delivering enterprise e-commerce platforms, HealthTech dashboards, and other high-impact projects. Adept at mentoring developers, optimizing workflows, and driving Agile delivery.</h4>
 
