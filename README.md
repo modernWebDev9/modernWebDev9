@@ -1,68 +1,124 @@
 <h1 align="center">Hi 👋, Welcome to my Github profile</h1>
-<img style="width: 100%" src="https://capsule-render.vercel.app/api?text=Full-Stack-developer&animation=fadeIn&type=waving&color=gradient&height=170"/>
 
-<h4 align="left">Full-Stack Developer & Technical Lead with 5+ years of experience building scalable web applications and leading cross-functional teams. Expert in React, Vue.js, Laravel, Django, and modern DevOps practices. Proven track record in delivering enterprise e-commerce platforms, HealthTech dashboards, and other high-impact projects. Adept at mentoring developers, optimizing workflows, and driving Agile delivery.</h4>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:ff7e5f,100:feb47b&height=250&section=header&text=Susan%20Miller%20|%20Senior%20Full%20Stack%20Engineer&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=React%20•%20TypeScript%20•%20Node.js%20•%20Fintech%20Platforms&descAlignY=58&descSize=20"/>
+</p>
+<!-- <p align="center">
+<img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?q=80&w=2070&auto=format&fit=crop" width="100%" />
+</p>  -->
+<!-- <p align="center">
+<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="900">
+</p> -->
+💻 Senior Full Stack Engineer | UI/UX Focus
+Building high-performance web applications, financial dashboards, and scalable platforms with modern technologies.
 
-- 💬 Ask me about **Laravel,Vue.js,Node.js, Golang and React, TypeScript, Next.js**
+---
 
-- 📫 How to reach me **susan0907miller@gmail.com**
-<h1 align="left">What Can I do?</h1>
-<h4 align="left">Smart Contract & Crypto</h4>
+## 🚀 About Me
 
-<h4 align="left">Crypto Trading Platforms & Bots</h4>
+I am a **Senior Full Stack Engineer** focused on building intuitive, scalable, and high-performance applications.  
+My expertise lies in **React-driven front-end architecture, user-focused product design, and secure backend systems**.
 
-<h4 align="left">AR & VR Web and Mobile application</h4>
+I enjoy transforming **complex data and workflows into clean, intuitive user experiences** while maintaining strong engineering practices and scalable architectures.
+
+---
+
+## 🧠 Core Expertise
+
+- Frontend architecture with **React + TypeScript**
+- UX-focused application design
+- Data-intensive dashboard development
+- Scalable backend services and APIs
+- Secure authentication & API protection
+- Cloud infrastructure & DevOps pipelines
+
+---
+
+# 🛠 Tech Stack
+
+## Frontend Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+---
+
+## UX / Design
+![Figma](https://img.shields.io/badge/Figma-Design%20Systems-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Design Systems](https://img.shields.io/badge/Design%20Systems-Component%20Libraries-blue?style=for-the-badge)
+![UX](https://img.shields.io/badge/UX-Usability%20Testing-purple?style=for-the-badge)
+
+---
+
+## Backend Development
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Backend-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![REST API](https://img.shields.io/badge/REST-APIs-orange?style=for-the-badge)
+![Microservices](https://img.shields.io/badge/Microservices-Architecture-blue?style=for-the-badge)
+
+---
+
+## Databases & Data Visualization
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-Database-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![D3.js](https://img.shields.io/badge/D3.js-Data%20Visualization-orange?style=for-the-badge)
+![Recharts](https://img.shields.io/badge/Recharts-Charts-blue?style=for-the-badge)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge)
+
+---
+
+## Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-Cloud-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![EC2](https://img.shields.io/badge/AWS-EC2-orange?style=for-the-badge)
+![S3](https://img.shields.io/badge/AWS-S3-yellow?style=for-the-badge)
+![RDS](https://img.shields.io/badge/AWS-RDS-blue?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-Containerization-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-Automation-green?style=for-the-badge)
+
+---
+
+## Security
+![OAuth2](https://img.shields.io/badge/OAuth2-Authentication-red?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT-Secure%20Tokens-black?style=for-the-badge)
+![RBAC](https://img.shields.io/badge/RBAC-Access%20Control-blue?style=for-the-badge)
+![API Security](https://img.shields.io/badge/API-Security-important?style=for-the-badge)
+
+---
+
+## Tools
+![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 
+---
 
-<div align="center">
-  <img src="https://github.com/naruhitokaide/naruhitokaide/blob/main/divider1.png" alt="divider"/>  
-</div> 
+## 💡 What I Can Do
 
+- Build **high-performance React + TypeScript applications** with modern front-end architecture
+- Create **UX-focused dashboards** for fintech, analytics, and data-heavy platforms
+- Develop **scalable backend services** using Node.js, Python, RESTful APIs, and microservices
+- Design and implement **secure authentication and authorization** flows (OAuth2, JWT, RBAC)
+- Build **real-time data visualizations** with D3.js, Recharts, Chart.js
+- Deploy and maintain **cloud-native applications** on AWS (EC2, S3, RDS) with Docker and CI/CD
+- Integrate **modern tools & libraries**: GraphQL, Next.js, Redux, TailwindCSS, Chakra UI
+- Implement **modern DevOps practices** and automated pipelines for faster delivery
+- Build **tokenized asset platforms** and fintech interfaces for investor portals
+---
 
-<div align="center" style="witdh:100%">
-  <h3 align="center"> :open_book: Frontend skills</h3><br/>
-  
-  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-  ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-  ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-  ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-  ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-  ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-  ![Less](https://img.shields.io/badge/less-2B4C80?style=for-the-badge&logo=less&logoColor=white)
-  ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white)
-  ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
-  ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-  ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-  ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
- 
-</div>
+# 📊 GitHub Stats
 
-<div align="center" style="witdh:100%"> 
-  <br/>
-  <h3 align="center"> :open_book: Backend skills</h3><br/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=modernWebDev9&show_icons=true&theme=tokyonight)
 
-  ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-  ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white)
-  ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-  ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-  ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-  ![Golang](https://img.shields.io/badge/Golang-%23EF4223.svg?style=for-the-badge&logo=Golang&logoColor=white)
-  ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-  ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-  ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
-  ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-  ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-  ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-  ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-  ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-  ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
-  ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=modernWebDev9&layout=compact&theme=tokyonight)
+
+---
+
+# 🤝 Connect With Me
+
+📧 **Email:** susan0907miller@outlook.com  
+💼 **GitHub:** https://github.com/modernWebDev9  
+
+---
+
+⭐ *Building clean architecture, intuitive UI, and scalable systems.*
