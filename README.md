@@ -116,7 +116,7 @@ I enjoy transforming **complex data and workflows into clean, intuitive user exp
 
 # 🤝 Connect With Me
 
-📧 **Email:** susan0907miller@outlook.com  
+📧 **Email:** emilypatterson111111@outlook.com@outlook.com  
 💼 **GitHub:** https://github.com/modernWebDev9  
 
 ---
