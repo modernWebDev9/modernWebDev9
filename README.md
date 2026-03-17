@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, Welcome to my Github profile</h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:ff7e5f,100:feb47b&height=250&section=header&text=Emily%20patterson%20|%20Senior%20Full%20Stack%20Engineer&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=React%20•%20TypeScript%20•%20Node.js%20•%20Fintech%20Platforms&descAlignY=58&descSize=20"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:ff7e5f,100:feb47b&height=250&section=header&text=Susan%Miller%20|%20Senior%20Full%20Stack%20Engineer&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=React%20•%20TypeScript%20•%20Node.js%20•%20Fintech%20Platforms&descAlignY=58&descSize=20"/>
 </p>
 <!-- <p align="center">
 <img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?q=80&w=2070&auto=format&fit=crop" width="100%" />
@@ -116,7 +116,7 @@ I enjoy transforming **complex data and workflows into clean, intuitive user exp
 
 # 🤝 Connect With Me
 
-📧 **Email:** emilypatterson111111@outlook.com
+📧 **Email:** susan0907miller@outlook.com
 💼 **GitHub:** https://github.com/modernWebDev9  
 
 ---
