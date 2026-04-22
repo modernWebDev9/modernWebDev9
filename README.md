@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, Welcome to my Github profile</h1>
+<h1 align="center">Hi 👋, Welcome</h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:ff7e5f,100:feb47b&height=250&section=header&text=Susan%20Miller%20|%20Senior%20Full%20Stack%20Engineer&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=React%20•%20TypeScript%20•%20Node.js%20•%20Fintech%20Platforms&descAlignY=58&descSize=20"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:ff7e5f,100:feb47b&height=250&section=header&text=Susan%20Miller%20|%20Full%20Stack%20Engineer&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=React%20•%20TypeScript%20•%20Node.js%20•%20Fintech%20Platforms&descAlignY=58&descSize=20"/>
 </p>
 <!-- <p align="center">
 <img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?q=80&w=2070&auto=format&fit=crop" width="100%" />
@@ -9,14 +9,14 @@
 <!-- <p align="center">
 <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="900">
 </p> -->
-💻 Senior Full Stack Engineer | UI/UX Focus
+💻 Full Stack Engineer | UI/UX Focus
 Building high-performance web applications, financial dashboards, and scalable platforms with modern technologies.
 
 ---
 
 ## 🚀 About Me
 
-I am a **Senior Full Stack Engineer** focused on building intuitive, scalable, and high-performance applications.  
+I am a **Full Stack Engineer** focused on building intuitive, scalable, and high-performance applications.  
 My expertise lies in **React-driven front-end architecture, user-focused product design, and secure backend systems**.
 
 I enjoy transforming **complex data and workflows into clean, intuitive user experiences** while maintaining strong engineering practices and scalable architectures.
