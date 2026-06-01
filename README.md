@@ -16,7 +16,7 @@ Building high-performance web applications, financial dashboards, and scalable p
 
 ## 🚀 About Me
 
-I am a **Full Stack Engineer** focused on building intuitive, scalable, and high-performance applications.  
+I am a **Full Stack Web developer** focused on building intuitive, scalable, and high-performance applications.  
 My expertise lies in **React-driven front-end architecture, user-focused product design, and secure backend systems**.
 
 I enjoy transforming **complex data and workflows into clean, intuitive user experiences** while maintaining strong engineering practices and scalable architectures.
@@ -104,14 +104,6 @@ I enjoy transforming **complex data and workflows into clean, intuitive user exp
 - Integrate **modern tools & libraries**: GraphQL, Next.js, Redux, TailwindCSS, Chakra UI
 - Implement **modern DevOps practices** and automated pipelines for faster delivery
 - Build **tokenized asset platforms** and fintech interfaces for investor portals
----
-
-# 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=modernWebDev9&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=modernWebDev9&layout=compact&theme=tokyonight)
-
 ---
 
 # 🤝 Connect With Me
