@@ -79,11 +79,11 @@ I enjoy transforming **complex data and workflows into clean, intuitive user exp
 
 ---
 
-### Security
-#![OAuth2](https://img.shields.io/badge/OAuth2-Authentication-red?style=for-the-badge)
-#![JWT](https://img.shields.io/badge/JWT-Secure%20Tokens-black?style=for-the-badge)
-#![RBAC](https://img.shields.io/badge/RBAC-Access%20Control-blue?style=for-the-badge)
-#![API Security](https://img.shields.io/badge/API-Security-important?style=for-the-badge)
+## Security
+![OAuth2](https://img.shields.io/badge/OAuth2-Authentication-red?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT-Secure%20Tokens-black?style=for-the-badge)
+![RBAC](https://img.shields.io/badge/RBAC-Access%20Control-blue?style=for-the-badge)
+![API Security](https://img.shields.io/badge/API-Security-important?style=for-the-badge)
 
 ---
 
@@ -104,13 +104,6 @@ I enjoy transforming **complex data and workflows into clean, intuitive user exp
 - Integrate **modern tools & libraries**: GraphQL, Next.js, Redux, TailwindCSS, Chakra UI
 - Implement **modern DevOps practices** and automated pipelines for faster delivery
 - Build **tokenized asset platforms** and fintech interfaces for investor portals
----
-
-# 🤝 Connect With Me
-
-📧 **Email:** susan0907miller@outlook.com
-💼 **GitHub:** https://github.com/modernWebDev9  
-
 ---
 
 ⭐ *Building clean architecture, intuitive UI, and scalable systems.*
