@@ -79,11 +79,11 @@ I enjoy transforming **complex data and workflows into clean, intuitive user exp
 
 ---
 
-## Security
-![OAuth2](https://img.shields.io/badge/OAuth2-Authentication-red?style=for-the-badge)
-![JWT](https://img.shields.io/badge/JWT-Secure%20Tokens-black?style=for-the-badge)
-![RBAC](https://img.shields.io/badge/RBAC-Access%20Control-blue?style=for-the-badge)
-![API Security](https://img.shields.io/badge/API-Security-important?style=for-the-badge)
+### Security
+#![OAuth2](https://img.shields.io/badge/OAuth2-Authentication-red?style=for-the-badge)
+#![JWT](https://img.shields.io/badge/JWT-Secure%20Tokens-black?style=for-the-badge)
+#![RBAC](https://img.shields.io/badge/RBAC-Access%20Control-blue?style=for-the-badge)
+#![API Security](https://img.shields.io/badge/API-Security-important?style=for-the-badge)
 
 ---
 
